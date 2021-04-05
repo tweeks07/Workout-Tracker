@@ -13,33 +13,33 @@ const workoutSchema = new mongoose.Schema (
         type: { 
           type: String,
           trim: true,
-          required: "type of excersise required",
+          required: "What type of exercise is this?",
         },
         name: {
           type: String,
           trim: true,
-          required: "excercise name required",
+          required: "What is the name of the exercise?",
         },
         duration: {
           type: Number,
 
-          required: "time of excercise required",
+          required: "How long will the exercise last?",
         },
         weight: {
           type: Number,
-          required: "weight required",
+        
         },
         reps: {
           type: Number,
-          required: "number of reps required",
+          
         },
         sets: {
           type: Number,
-          required: "number of sets required",
+          
         },
         distance: {
           type: Number,
-          required: "number of miles required",
+          
         },
       },
     ],
