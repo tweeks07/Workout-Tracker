@@ -10,7 +10,7 @@ const workoutSchema = new mongoose.Schema (
     },
     exercises: [
       {
-        type: {
+        type: { 
           type: String,
           trim: true,
           required: "type of excersise required",
