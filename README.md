@@ -19,3 +19,20 @@ The user should be able to:
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Deployment
+
+Walk Through
+![](assets/images/deployment.gif)
+
+The URL of the GitHub [repository](https://https://github.com/tweeks07/Workout-Tracker)
+
+The URL of the Heroku [link](https://ancient-falls-64004.herokuapp.com/)
+
+## Contact Information
+---
+Taylor Weeks
+
+Email: taylorlweeks707@gmail.com
+
+[Github](https://github.com/tweeks07)
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
